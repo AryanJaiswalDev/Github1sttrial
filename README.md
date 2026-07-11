@@ -1,3 +1,3 @@
 # Github1sttrial
 hello this is my first repository...
-my first change ,understanding commit function
+Author - aryan jaiswal
